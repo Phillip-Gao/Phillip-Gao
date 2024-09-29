@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Junior studying computer science with a passion for software engineering, AI, cybersecurity, and product management. Experienced in building machine learning models, cybersecurity solutions, and full-stack web development. I am particularly interested in leveraging data to create meaningful, user-focused products.
 
